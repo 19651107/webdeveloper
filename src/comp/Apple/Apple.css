@@ -1,0 +1,16 @@
+.apple{
+    padding: 50px 0;
+}
+.apple__row{
+    display: flex;
+    column-gap: 20px;
+}
+.apple__card{
+    width: 33.33333%;
+    padding: 20px 15px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
